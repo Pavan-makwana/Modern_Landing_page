@@ -134,7 +134,7 @@ html,body{
     height: 170px;
     margin-top: 20px;
     margin-bottom: 30px;
-    background-color: red;
+    /* background-color: red; */
 }
 
 #heroright p:nth-child(3){
